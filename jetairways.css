@@ -1,0 +1,229 @@
+.container{
+    width:100%;
+    hyphens: 80%;
+
+}
+body{
+    overflow-x: hidden;
+}
+.top{
+    width: 100%;
+    height: 70px;
+    background-color: #0F204B;
+  
+}
+.logo{
+    width: 300px;
+    height: 70px;
+    position: relative;
+    background-image: url("https://www.jetairways.com/assets/img/Jet-Airways-Logo.svg");
+    
+    }
+    .logo1{
+        width: 100%;
+        height: auto;
+    }
+    .logotext  {
+        width: 600px;
+        float:right;
+        position: relative;
+       
+    }
+    .logotext ul{
+        width: 600px;
+        display: flex;
+        justify-content: space-between;
+        list-style: none;   
+         font-family: 'Roboto', sans-serif;
+         align-content: center;
+         font-size: 16px;
+         color: #fff;
+         position: relative;
+         bottom: 65px;
+         right: 80px;
+         
+    }
+    .second{
+        width: 100%;
+        height: 100%;
+        position: relative;
+        bottom: 30px;
+        
+    }
+.secondtext{
+    width: 55%;
+    position: relative;
+    bottom: 240px;
+    left: 300px;
+}
+.thired{
+    width: 100%;
+    height: 500px;
+}
+.thired1{
+    width: 45%;
+    height: 20px;
+    font-size: 2rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    line-height: 2.5rem;
+    position: relative;
+left: 20px;
+}
+.edit{
+    height: 5px;
+   background-color:#F0AB00;
+   position: relative;
+   float: left;
+   bottom: 410px;
+   left: 20px;
+   
+    
+}
+.thired2{
+    width: 600px;
+    line-height: 1.9rem;
+    font-weight: 300;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #666666 ;
+    float: left;
+    position: relative;
+    bottom: 400px;
+    right: 60px;
+}
+.thired3{
+    width: 100%;
+    float: right;
+    position:relative;
+    left: 680px;
+    bottom: 300px;
+}
+.thired4{
+    position: relative;
+    right: 650px;
+    bottom: 100px;
+}
+.thired5{
+    position: relative;
+    font-size: 2rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    line-height: 2.5rem;
+    color: #000;
+    position: relative;
+    bottom: 470px;
+}
+.edit1{
+    height: 5px;
+   background-color:#F0AB00;
+   position: relative;
+   float: left;
+   bottom: 480px;
+   left: 5px;
+}
+.thired6{
+    width: 650px;
+    float: right;
+    line-height: 1.9rem;
+    font-weight: 300;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #666666 ;
+    position: relative;
+    bottom: 470px;
+}
+.button{
+    margin: 120px;
+    width: 300px;
+     
+        height: 50px;
+       border-radius: 10px;
+       font-size:18px;
+       font-weight: 20px;
+       color:#FECB00;
+        background-color:#0F204B;
+        font-family: helvetica,arial,sans-serif;
+       position: relative;
+        left: 560px;
+        bottom: 400px;
+        justify-content:space-evenly;
+}
+.four{
+    width: 100%;
+    height: 450px;
+    background-color:#0F204B ;
+    position:relative;
+    bottom: 400px;
+}
+.four1{
+    position: relative;
+    font-size: 2.5rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    line-height: 2.5rem;
+    text-align: center;
+    padding: 5rem 0 4re;
+    color: #FECB00;
+    position: relative;
+    top: 80px;
+}
+.edit2{
+    height: 2px;
+   background-color:#F0AB00;
+   position: relative;
+   float: left;
+   left: 630px;
+   bottom: 700px;
+}
+.four2{
+    color:#fff;
+    font-size: 1rem;
+    line-height: 1.9rem;
+    font-weight: 250;
+    font-family: 'Lato', sans-serif;
+    padding: 0 11rem 2rem;
+    position: relative;
+    bottom: 660px;
+}
+.footer{
+    width: 100%;
+    height: auto;
+}
+.footer1{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #1E1C4C;
+    padding-left: 1rem;
+    position: relative;
+    bottom: 550px;
+}
+.footertext{
+    width: 550px;
+   
+    
+}
+.footertext ul{
+    display: flex;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #0F204B;
+    justify-content: space-between;
+    position: relative;
+    bottom: 550px;
+}
+.footer2{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #0F204B;
+    position: relative;
+    bottom: 550px;
+    left: 500px;
+}
